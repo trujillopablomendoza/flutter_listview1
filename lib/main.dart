@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         "/listview2": (BuildContext context) => listview2(),
       },
       theme: ThemeData(
-          primarySwatch: Colors.green,
+          primarySwatch: Colors.purple,
           accentColor: Colors.red,
           //configurar texto
           textTheme: TextTheme(
